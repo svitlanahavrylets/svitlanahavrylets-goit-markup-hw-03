@@ -280,6 +280,7 @@ height: 56px;
   text-align: left;
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 .project-card-title {
   font-weight: 500;
@@ -302,11 +303,9 @@ height: 56px;
 /* ============== Footer section styles ============== */
 .page-footer {
   background-color: #2e2f42;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding: 100px 0;
   padding-left: 156px;
 }
-
 .logo-footer {
   margin-bottom: 16px;
   display: inline-block;
