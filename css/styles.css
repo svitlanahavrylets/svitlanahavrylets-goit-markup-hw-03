@@ -225,7 +225,6 @@ height: 56px;
 }
 .team-card {
   display: flex;
-  flex-wrap: wrap;
   gap: 24px;
   row-gap: 48px;
 }
@@ -304,7 +303,6 @@ height: 56px;
 .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
-  padding-left: 156px;
 }
 .logo-footer {
   margin-bottom: 16px;
