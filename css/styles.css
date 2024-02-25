@@ -178,7 +178,7 @@ height: 56px;
 /* ============== /Hero section styles ============== */
 
 /* ============== Benefits section styles ============== */
-.benefits-container {
+.benefits-section {
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -279,6 +279,7 @@ height: 56px;
 .project-card-container {
   text-align: left;
   padding: 32px 16px;
+  border: 1px solid #e7e9fc;
 }
 .project-card-title {
   font-weight: 500;
@@ -289,7 +290,6 @@ height: 56px;
   margin-bottom: 8px;
 }
 .project-card-item {
-  border: 1px solid #e7e9fc;
   width: calc((100% - 48px) / 3);
 }
 .project-card-text {
@@ -302,7 +302,8 @@ height: 56px;
 /* ============== Footer section styles ============== */
 .page-footer {
   background-color: #2e2f42;
-  padding: 100px 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
   padding-left: 156px;
 }
 
